@@ -1,0 +1,91 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E2152C83-6E96-4F35-BE06-A9DDBCB96B2D" platform="MtWeb" defaultW="1440" defaultH="1147" measureW="1700" measureH="1147" mobileScreenScale="0">
+  <controls controlCount="9">
+    <control controlID="DDD2C6D6-063C-4262-989B-785229719154" controlTypeID="Shape" x="14" y="10" w="289" h="1117" zOrder="0">
+      <color>4291611699</color>
+      <borderColor>4294967295</borderColor>
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>20</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>10</thickness>
+    </control>
+    <control controlID="A7E9343D-C2E2-44AA-8306-E743553FB079" controlTypeID="Label" x="111" y="38" w="89" h="73" zOrder="1">
+      <font family="Javanese+Text" displayName="Javanese+Text_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>MAIN</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="51D5DD22-5381-4A5C-ABFC-FA271252F815" controlTypeID="Button" x="52" y="141" w="207" h="48" zOrder="2">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>DASHBOARD</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+      <buttonStatus>BsSelected</buttonStatus>
+    </control>
+    <control controlID="1BF07398-0263-40D9-8121-3573B6B7F71E" controlTypeID="Button" x="52" y="270" w="207" h="48" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="B83708B9-0E12-4B17-AC04-DC5AD8F5A784" linkType="ltPageLink" isApplyIncludePage="False" title="my+info">
+          <area shape="0" alt="" ID="{6602F143-5CAF-47A0-B750-B5865EBEF019}" coords="(0,0,207,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>MY+INFO</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="BB4717C0-9C1F-4585-AF22-F10D32733B73" controlTypeID="Button" x="52" y="387" w="207" h="48" zOrder="4">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>REPORTS</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="E9662B7B-73EB-4ED5-9CB1-CCA0EF179469" controlTypeID="Calendar" x="345" y="180" w="325" h="260" zOrder="5"/>
+    <control controlID="4770C7BA-874B-410E-BBE5-64F9C790E7AA" controlTypeID="Label" x="351" y="47" w="339" h="54" zOrder="6">
+      <font family="Roman" displayName="Roman_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>GOOD+MORNING!</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="79D72D02-570B-43F4-8AB3-1E084E0A0333" controlTypeID="Label" x="350" y="116" w="660" h="54" zOrder="7">
+      <font family="Roman" displayName="Roman_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>THANK+YOU+FOR+NOT+BEING+LATE!</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BC696B86-7B80-4CF7-8D29-43763A35FBB7" controlTypeID="Icon" x="1033" y="93" w="77" h="77" zOrder="8">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62344</iconCode>
+      </icon>
+      <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4291611699</backgroundColor>
+    <fontSize>20</fontSize>
+    <fontFamily>Segoe+UI+Symbol</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

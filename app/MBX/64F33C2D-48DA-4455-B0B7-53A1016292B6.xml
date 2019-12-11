@@ -1,0 +1,59 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E2152C83-6E96-4F35-BE06-A9DDBCB96B2D" platform="MtWeb" defaultW="1440" defaultH="1147" measureW="1700" measureH="1147" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="DDD2C6D6-063C-4262-989B-785229719154" controlTypeID="Shape" x="14" y="10" w="289" h="1117" zOrder="0">
+      <color>4291611699</color>
+      <borderColor>4294967295</borderColor>
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>20</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>10</thickness>
+    </control>
+    <control controlID="A7E9343D-C2E2-44AA-8306-E743553FB079" controlTypeID="Label" x="111" y="38" w="89" h="73" zOrder="1">
+      <font family="Javanese+Text" displayName="Javanese+Text_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>MAIN</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="51D5DD22-5381-4A5C-ABFC-FA271252F815" controlTypeID="Button" x="52" y="142" w="207" h="48" zOrder="2">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>DASHBOARD</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="1BF07398-0263-40D9-8121-3573B6B7F71E" controlTypeID="Button" x="52" y="272" w="207" h="48" zOrder="3">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>MY+INFO</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="BB4717C0-9C1F-4585-AF22-F10D32733B73" controlTypeID="Button" x="52" y="402" w="207" h="48" zOrder="4">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>REPORTS</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+      <buttonStatus>BsSelected</buttonStatus>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4291611699</backgroundColor>
+    <fontSize>20</fontSize>
+    <fontFamily>Segoe+UI+Symbol</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

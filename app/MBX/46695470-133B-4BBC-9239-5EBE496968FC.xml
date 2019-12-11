@@ -1,0 +1,32 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="46695470-133B-4BBC-9239-5EBE496968FC" platform="MtWeb" defaultW="1440" defaultH="1147" measureW="1440" measureH="1147" mobileScreenScale="0">
+  <controls controlCount="3">
+    <control controlID="4E0AE80B-9148-4B75-AE64-F608141ACC26" controlTypeID="AvatarEx2" x="20" y="10" w="254" h="254" zOrder="0">
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59652</iconCode>
+      </icon>
+      <URL>467605F5F90D9FF65132C1A6EF883F26.svg</URL>
+    </control>
+    <control controlID="B4D475DD-DCDE-4FEC-984A-2AE209476FED" controlTypeID="TextArea" x="350" y="30" w="447" h="58" zOrder="1">
+      <borderColor>4278190080</borderColor>
+      <borderVisible>True</borderVisible>
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>20</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4EEF1BAE-51A2-4812-99D2-C09234EE7E91" controlTypeID="Label" x="284" y="42" w="56" h="27" zOrder="2">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Name%3A</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4291611699</backgroundColor>
+    <fontSize>20</fontSize>
+    <fontFamily>Segoe+UI+Symbol</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

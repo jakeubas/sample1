@@ -1,0 +1,51 @@
+﻿<project version="2.9" name="Project1" ID="761A089C-628E-43A6-8556-D1D9DD45F9C8">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1440,1147)" backgroundColor="4291611699" fontSize="20" fontFamily="Segoe UI Symbol" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="713CBA11-FFEA-4CFC-8B84-E7F46D2BE2D8" expanded="True" code="OeYsKtIn3E" thumbCode="YpslDoSr2L" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="98195AD3304A565158422C1227A46D65.jpg"/>
+      </images>
+    </page>
+    <page name="dashboard" ID="E2152C83-6E96-4F35-BE06-A9DDBCB96B2D" expanded="True" code="eFQif3P1R8" thumbCode="eFQif3P1R8" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+      </images>
+    </page>
+    <page name="my info" ID="B83708B9-0E12-4B17-AC04-DC5AD8F5A784" expanded="True" code="sAKevWhZU4" thumbCode="sAKevWhZU4" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        <image key="AB34477532BE33EE7485734900B89543.svg"/>
+      </images>
+      <page name="Page" ID="46695470-133B-4BBC-9239-5EBE496968FC" expanded="True" code="Zkmf7556Ms" thumbCode="Zkmf7556Ms" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        </images>
+      </page>
+    </page>
+    <page name="reports" ID="4F1A6AD8-69EC-4478-B216-9468006F357A" expanded="True" code="sKMcBlggcV" thumbCode="sKMcBlggcV" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Page1" ID="77D44E84-4B62-480F-88BF-60FCCE4544FA" expanded="True" code="xCaQlEJS3P" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page" ID="C3CC2826-EDDF-4AAA-9801-C46CED28C709" expanded="False" code="JIWt8noZCx" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="818C8464-07D2-4837-9F4C-CF1093059950" expanded="False" code="qOPwFsBWio" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="my info" ID="DDF45AEF-C94A-4E6A-9C56-F41AE07FC5BE" expanded="True" code="o3E6eHnCKZ" thumbCode="LFVg1ZxZPF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="report" ID="64F33C2D-48DA-4455-B0B7-53A1016292B6" expanded="False" code="DZKxRnIqXV" thumbCode="HsMKumqDGN" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page1" ID="4F3448CF-6A4E-4690-873F-1F48B8D115C1" expanded="False" code="kuTH1lfqto" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="66B73D87-ABCB-44DE-9F5B-86803E702823" expanded="True" code="apuqZVAUKd" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="5AA0E3CE-C38E-4BDA-9098-AC406071452C" expanded="True" code="HMybL3o6yG" thumbCode="yPchHl9YIh" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="98195AD3304A565158422C1227A46D65.jpg"/>
+    <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+    <image key="AB34477532BE33EE7485734900B89543.svg"/>
+    <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+  </images>
+</project>

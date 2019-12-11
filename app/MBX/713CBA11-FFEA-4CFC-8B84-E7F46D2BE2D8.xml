@@ -1,0 +1,63 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="713CBA11-FFEA-4CFC-8B84-E7F46D2BE2D8" platform="MtWeb" defaultW="1440" defaultH="1147" measureW="1440" measureH="1147" mobileScreenScale="0">
+  <controls controlCount="6">
+    <control controlID="80A6154A-1A34-4307-98FC-8888A4C352F4" controlTypeID="Image" x="328" y="141" w="783" h="199" zOrder="0">
+      <caption>logo</caption>
+      <URL>98195AD3304A565158422C1227A46D65.jpg</URL>
+    </control>
+    <control controlID="56DB8703-A8A6-4C1B-ADE7-DF8042F052E1" controlTypeID="TextInput" x="580" y="406" w="531" h="67" zOrder="1">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="755B8EA2-FDDF-4B8A-A92D-CB0700B200FD" controlTypeID="TextInput" x="580" y="530" w="531" h="67" zOrder="2">
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <inputModel>emPassword</inputModel>
+    </control>
+    <control controlID="C7327B31-3918-467F-8870-B7821DFDE7E9" controlTypeID="Label" x="328" y="412" w="211" h="54" zOrder="3">
+      <caption>users</caption>
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>USERNAME%3A</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7286DAA1-0EAE-4219-A499-DD50B97E1A04" controlTypeID="Label" x="328" y="534" w="217" h="54" zOrder="4">
+      <caption>pass</caption>
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>PASSWORD%3A</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F33EB73E-DE39-4491-8498-407F5770D701" controlTypeID="Button" x="797" y="654" w="314" h="65" zOrder="5">
+      <caption>log+in</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E2152C83-6E96-4F35-BE06-A9DDBCB96B2D" linkType="ltPageLink" isApplyIncludePage="False" title="dashboard">
+          <area shape="0" alt="" ID="{9033F9D3-3B52-4124-B5C7-0CE7958277CC}" coords="(0,0,314,65)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI+Symbol" displayName="Segoe+UI+Symbol" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>LOG+IN%0D%0A</text>
+      <textSize>40</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4291611699</backgroundColor>
+    <fontSize>20</fontSize>
+    <fontFamily>Segoe+UI+Symbol</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
